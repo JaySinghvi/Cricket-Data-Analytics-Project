@@ -16,7 +16,7 @@
 1. **Strike rate** (Average no. of balls required to take a wicket) < 16
 2. **Average** (No. of runs allowed per wicket) < 18
 3. **Innings bowled** (Total Innings bowled) > 4
-4. **Dot ball %** (% of dot balls bowled) > 40
+4. **Wickets** (% of dot balls bowled) > 8
 
 
 **Tasks Performed** : 
