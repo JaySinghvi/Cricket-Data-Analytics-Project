@@ -21,8 +21,10 @@
 
 **Tasks Performed** : 
 1. Performed **Web Scraping** using 2 techniques:
+   
      a) Using Python Library **Beautiful Soup**
+   
      b) Using an online web data collector, **Bright Data** which required javascript to scrape the data and then converted it into downloadable json files
-2. Used json files to perform **Exploratory Data Analysis** and then converted and stored files in CSV format.
-3. Transformed data and values using **DAX model** in Power BI 
-4. Developed interactive report using **Power BI** 
+3. Used json files to perform **Exploratory Data Analysis** and then converted and stored files in CSV format.
+4. Transformed data and values using **DAX model** in Power BI 
+5. Developed interactive report using **Power BI** 
