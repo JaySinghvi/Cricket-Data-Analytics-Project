@@ -5,6 +5,7 @@
 **Soruce of the data** : ESPNCricInfo (https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450)
 
 **Parameters Scoping**:
+
 **Batsman:**
 1. **Strike rate** (No of runs scored per 100 balls) > 140
 2. **Batting Average** (Average runs scored in an innings ) > 30
